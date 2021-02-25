@@ -14,4 +14,4 @@
 ![java](https://img.shields.io/badge/-JavaGameDev-important?style=for-the-badge&logo=java) ![libGDX](https://img.shields.io/badge/-LibGDX-critical?style=for-the-badge)
 
 ### Fun fact ...
-I document my code :tada
+I document my code :tada:
