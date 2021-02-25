@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ![java](https://img.shields.io/badge/-Java-red) ![Springboot](https://img.shields.io/badge/-SpringBoot-red) ![Shell](https://img.shields.io/badge/-Shell-red)
 
-![Docker](https://img.shields.io/badge/-Docker-informational) ![Jenkins](https://img.shields.io/badge/-Jenkins-lightgrey) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-orange)
+![Docker](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-lightgrey) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-orange)
 
 ### I’m looking to collaborate on ...
 ![Back-end](https://img.shields.io/badge/-Back--end-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-success) ![Typescript](https://img.shields.io/badge/-Typescript-critical)
