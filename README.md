@@ -1,10 +1,5 @@
-### Hello there 👋
+### Hello there 👋 :fr:
 
-<!--
-**decoupigny83/decoupigny83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 ### I’m currently working on ...
 ![big data](https://img.shields.io/badge/-Big%20Data-important?style=for-the-badge)  ![API](https://img.shields.io/badge/-API-success?style=for-the-badge)
 
@@ -14,5 +9,9 @@ Here are some ideas to get you started:
 
 ### I’m looking to collaborate on ...
 ![Back-end](https://img.shields.io/badge/-Back--end-blue?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/-NodeJS-success?style=for-the-badge&logo=node.js) ![Typescript](https://img.shields.io/badge/-Typescript-critical?style=for-the-badge&logo=typescript)
+
 ### I'm working in my free time on ...
 ![java](https://img.shields.io/badge/-JavaGameDev-important?style=for-the-badge&logo=java) ![libGDX](https://img.shields.io/badge/-LibGDX-critical?style=for-the-badge)
+
+### Fun fact ...
+I document my code :rainbow:
