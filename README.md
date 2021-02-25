@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-lightgrey?style=for-the-badge&logo=jenkins) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-orange)
 
 ### I’m looking to collaborate on ...
-![Back-end](https://img.shields.io/badge/-Back--end-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-success) ![Typescript](https://img.shields.io/badge/-Typescript-critical)
+![Back-end](https://img.shields.io/badge/-Back--end-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-success?style=for-the-badge&logo=node-dot-js) ![Typescript](https://img.shields.io/badge/-Typescript-critical?style=for-the-badge&logo=typescript)
 ### I'm working in my free time on ...
 ![java](https://img.shields.io/badge/-JavaGameDev-important?style=for-the-badge&logo=java) ![libGDX](https://img.shields.io/badge/-LibGDX-critical)
