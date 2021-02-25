@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ### I’m currently working on ...
-![big data](https://img.shields.io/badge/-Big%20Data-important) || ![API](https://img.shields.io/badge/-API-success)
+![big data](https://img.shields.io/badge/-Big%20Data-important)  ![API](https://img.shields.io/badge/-API-success)
 
 ![java](https://img.shields.io/badge/-Java-red) ![Springboot](https://img.shields.io/badge/-SpringBoot-red) ![Shell](https://img.shields.io/badge/-Shell-red)
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 ### I’m looking to collaborate on ...
 ![Back-end](https://img.shields.io/badge/-Back--end-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-success) ![Typescript](https://img.shields.io/badge/-Typescript-critical)
 ### I'm working in my free time on ...
-![java](https://img.shields.io/badge/-Java-red) ![libGDX](https://img.shields.io/badge/-LibGDX-critical)
+![java](https://img.shields.io/badge/-Java-important) ![libGDX](https://img.shields.io/badge/-LibGDX-critical)
