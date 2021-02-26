@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-lightgrey?style=for-the-badge&logo=jenkins) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-orange?style=for-the-badge)
 
 ### I’m looking to collaborate on
-![Back-end](https://img.shields.io/badge/-Back--end-blue?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/-NodeJS-success?style=for-the-badge&logo=node.js) ![Typescript](https://img.shields.io/badge/-Typescript-critical?style=for-the-badge&logo=typescript)
+![Back-end](https://img.shields.io/badge/-Back--end-blue?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/-NodeJS-success?style=for-the-badge&logo=node.js) ![Typescript](https://img.shields.io/badge/-Typescript-critical?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### I'm working in my free time on
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=C-Sharp) ![libGDX](https://img.shields.io/badge/-GodotEngine-blue?style=for-the-badge&logo=godot-engine&logoColor=white)
