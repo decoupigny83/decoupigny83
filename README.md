@@ -5,7 +5,7 @@
 
 ![java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java) ![Springboot](https://img.shields.io/badge/-SpringBoot-red?style=for-the-badge&logo=spring&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-red?style=for-the-badge&logo=PowerShell&logoColor=white)
 
-![Docker](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-lightgrey?style=for-the-badge&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-lightgrey?style=for-the-badge&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-orange?style=for-the-badge)
 
 ### I’m looking to collaborate on
 ![Back-end](https://img.shields.io/badge/-Back--end-blue?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/-NodeJS-success?style=for-the-badge&logo=node.js&logoColor=white) ![Typescript](https://img.shields.io/badge/-Typescript-critical?style=for-the-badge&logo=typescript&logoColor=white)
