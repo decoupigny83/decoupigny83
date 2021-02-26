@@ -11,7 +11,7 @@
 ![Back-end](https://img.shields.io/badge/-Back--end-blue?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/-NodeJS-success?style=for-the-badge&logo=node.js) ![Typescript](https://img.shields.io/badge/-Typescript-critical?style=for-the-badge&logo=typescript)
 
 ### I'm working in my free time on
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=C-Sharp) ![libGDX](https://img.shields.io/badge/-GodotEngine-red?style=for-the-badge&logo=godot-engine)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=C-Sharp) ![libGDX](https://img.shields.io/badge/-GodotEngine-blue?style=for-the-badge&logo=godot-engine?logoColor=violet)
 
 ### Fun fact
 I document my code :tada:
